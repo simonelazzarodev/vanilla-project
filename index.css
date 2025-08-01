@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --background-color: #e8f6ff;
+    --title: #1a2b4c;
+    --main-text: #1a2b4c;
+    --secondary-text: #3f4e68;
+    --link: #0077b6;
+    --section: #ffffff;
+    --section-border: #cce6f5;
+    --footer: #dee2e6;
+}
+
+body {
+  background: url('assets/images/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
